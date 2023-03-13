@@ -1,0 +1,15 @@
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/bin/Debug/net6.0/DataStructuresAndAlghorithms
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/bin/Debug/net6.0/DataStructuresAndAlghorithms.deps.json
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/bin/Debug/net6.0/DataStructuresAndAlghorithms.runtimeconfig.json
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/bin/Debug/net6.0/DataStructuresAndAlghorithms.dll
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/bin/Debug/net6.0/DataStructuresAndAlghorithms.pdb
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.csproj.AssemblyReference.cache
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.AssemblyInfoInputs.cache
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.AssemblyInfo.cs
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.csproj.CoreCompileInputs.cache
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.dll
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/refint/DataStructuresAndAlghorithms.dll
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.pdb
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/DataStructuresAndAlghorithms.genruntimeconfig.cache
+/Users/vivense/Documents/Other/MasCodInt/DataStructuresAndAlghorithms/DataStructuresAndAlghorithms/obj/Debug/net6.0/ref/DataStructuresAndAlghorithms.dll
